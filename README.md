@@ -34,4 +34,6 @@
 </a>
 
 
+![Snake animation](https://github.com/mariabsouza/mariabsouza/blob/output/github-contribution-grid-snake.svg)
+
 
